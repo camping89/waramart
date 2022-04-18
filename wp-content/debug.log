@@ -1,0 +1,5 @@
+[16-Nov-2021 06:44:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/wp-db.php on line 1653
+[16-Nov-2021 06:44:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/wp-db.php on line 1653
+[16-Nov-2021 06:44:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/wp-db.php on line 1653
+[16-Nov-2021 06:51:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/html/wp-includes/update.php on line 175
+[16-Nov-2021 06:53:17 UTC] PHP Warning:  Undefined property: Automatic_Upgrader_Skin::$api in /var/www/html/wp-admin/includes/class-theme-upgrader.php on line 160

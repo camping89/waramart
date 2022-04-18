@@ -1,0 +1,1467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bacola\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-29 10:49+0000\n"
+"PO-Revision-Date: 2021-11-20 15:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;"
+"esc_attr_e;esc_attr__;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2"
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s đã cài đặt và kích hoạt thành công."
+
+#: ../includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: ../includes/merlin/merlin-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr "%1$s%2$s Chủ đề &lsaquo; Thiết lập chủ đề: %3$s%4$s"
+
+#: ../includes/woocommerce.php:948 ../includes/header/header-type1.php:130
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] ""
+
+#: ../includes/merlin/merlin-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr "%s được kích hoạt"
+
+#: ../woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "%s số lượng"
+
+#: ../woocommerce/single-product/rating.php:39
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s đánh giá"
+msgstr[1] ""
+
+#: ../comments.php:37 ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: ../includes/woocommerce.php:933
+#, php-format
+msgid "(%d)"
+msgid_plural "(%d)"
+msgstr[0] "(%d)"
+msgstr[1] ""
+
+#: ../functions.php:522
+msgid "(Edit)"
+msgstr "(Chỉnh sửa)"
+
+#: ../404.php:19
+msgid "404"
+msgstr "404"
+
+#: ../includes/class-tgm-plugin-activation.php:2811
+#: ../includes/merlin/merlin-config.php:53
+msgid "Activate"
+msgstr "Hoạt động"
+
+#: ../includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Hoạt động %2$s"
+
+#: ../includes/merlin/merlin-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr "Hoạt động %s"
+
+#: ../includes/merlin/class-merlin.php:1754
+msgid "Activating"
+msgstr "Đang kích hoạt"
+
+#: ../includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: ../includes/merlin/merlin-config.php:85
+#: ../includes/merlin/merlin-config.php:89
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: ../includes/merlin/class-merlin.php:2103
+msgid "After import setup"
+msgstr "Sau khi thiết lập nhập"
+
+#: ../includes/merlin/class-merlin.php:2104
+msgid "After import setup."
+msgstr "Sau khi thiết lập nhập."
+
+#: ../includes/header/models/sidebar-menu.php:7
+msgid "ALL CATEGORIES"
+msgstr "TẤT CẢ DANH MỤC"
+
+#: ../includes/merlin/merlin-config.php:91
+msgid "All done. Have fun!"
+msgstr "Tất cả đã được làm xong. Chúc vui vẻ!"
+
+#: ../includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã hoàn thành."
+
+#: ../includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Tất cả cài đặt đã được hoàn thành."
+
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin đã được cài đặt và kích hoạt thành công. %1$s"
+
+#: ../includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#: ../includes/merlin/class-merlin.php:1527
+#: ../includes/merlin/class-merlin.php:1568
+msgid "An error occurred, please try again."
+msgstr "Có lỗi xảy ra. Vui lòng thử lại."
+
+#: ../footer.php:136
+msgid "app"
+msgstr "ứng dụng"
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Apply coupon"
+msgstr "Áp dụng phiếu giảm giá"
+
+#: ../woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr "Có sẵn khi đặt hàng trước"
+
+#: ../includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: ../woocommerce/single-product/product-image.php:53
+msgid "Awaiting product image"
+msgstr "Đang chờ hình ảnh sản phẩm"
+
+#: ../includes/merlin/merlin-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+"Đáng kinh ngạc. Chủ đề con của bạn đã được cài đặt và hiện đã được kích hoạt."
+
+#: ../includes/merlin/merlin-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+"Đáng kinh ngạc. Chủ đề con của bạn đã được tạo và hiện đã được kích hoạt."
+
+#: ../functions.php:199
+msgid "Bacola Core"
+msgstr "Bacola Core"
+
+#: ../includes/metaboxes.php:73
+msgid "Badge if on sale"
+msgstr "Huy hiệu nếu giảm giá"
+
+#: ../includes/metaboxes.php:60
+msgid "Badge Type"
+msgstr "Loại huy hiệu"
+
+#: ../includes/metaboxes.php:89
+msgid "Blog Post Image Slides"
+msgstr "Trang trình bày hình ảnh bài đăng trên blog"
+
+#: ../includes/metaboxes.php:95
+msgid "Blog Post Slider Images"
+msgstr "Hình ảnh thanh trượt bài đăng trên blog"
+
+#: ../functions.php:438
+msgid "Blog Sidebar"
+msgstr "Thanh bên blog"
+
+#: ../includes/metaboxes.php:134
+msgid "Blog Video Settings"
+msgstr "Cài đặt Video Blog"
+
+#: ../includes/merlin/merlin-config.php:48
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: ../functions.php:258
+msgid "Canvas Bottom"
+msgstr "Bên dưới Canvas "
+
+#: ../includes/woocommerce.php:1227
+msgid "Cart Updated"
+msgstr "Đã cập nhật giỏ hàng"
+
+#: ../woocommerce/single-product/meta.php:34
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Loại:"
+msgstr[1] ""
+
+#: ../includes/woocommerce.php:1233
+msgid "Checkout"
+msgstr "Thủ tục thanh toán"
+
+#: ../includes/merlin/class-merlin.php:721
+msgid "Child"
+msgstr "Child"
+
+#: ../includes/woocommerce.php:1236
+msgid "Close"
+msgstr "Đóng"
+
+#: ../comments.php:36 ../comments.php:59
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: ../comments.php:73
+msgid "Comments are closed."
+msgstr "Bình luận được đóng lại."
+
+#: ../functions.php:152 ../includes/merlin/theme-register.php:74
+msgid "Contact Form 7"
+msgstr "Mẫu liên hệ 7"
+
+#: ../includes/merlin/class-merlin.php:743
+#: ../includes/merlin/class-merlin.php:2025
+msgid "Content"
+msgstr "Nội dung"
+
+#: ../footer.php:164 ../includes/header/models/canvas-menu.php:64
+msgid "Copyright 2021.KlbTheme . All rights reserved"
+msgstr "Copyright 2021.KlbTheme . All rights reserved"
+
+#: ../includes/merlin/theme-register.php:66
+msgid "Core Payment Options"
+msgstr "Tùy chọn thanh toán cốt lõi"
+
+#: ../includes/merlin/theme-register.php:65
+msgid "Core Shipping Options"
+msgstr "Các tùy chọn vận chuyển cốt lõi"
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Coupon code"
+msgstr "Mã giảm giá"
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Coupon:"
+msgstr "Phiếu mua hàng:"
+
+#: ../includes/merlin/theme-register.php:64
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: ../includes/merlin/class-merlin.php:2026
+msgid "Demo content data."
+msgstr "Dữ liệu nội dung demo."
+
+#: ../includes/merlin/merlin-config.php:43
+msgid "Disable this wizard"
+msgstr "Tắt trình hướng dẫn này"
+
+#: ../includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Loại bỏ thông báo này"
+
+#: ../functions.php:177 ../includes/merlin/theme-register.php:71
+msgid "Elementor"
+msgstr "Elementor"
+
+#: ../includes/merlin/theme-register.php:161
+msgid "Enter Purchase Code"
+msgstr "Nhập mã mua hàng"
+
+#: ../includes/metaboxes.php:118
+msgid "Enter your Audio URL(Oembed) or Embed Code."
+msgstr "Nhập URL âm thanh (Oembed) hoặc Mã nhúng của bạn."
+
+#: ../includes/merlin/theme-register.php:160
+#, php-format
+msgid "Enter your Envato Purchase Code to receive Theme and plugin updates %s"
+msgstr ""
+"Nhập Mã mua Envato của bạn để nhận các bản cập nhật Chủ đề và plugin %s"
+
+#: ../includes/merlin/merlin-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+"Nhập khóa cấp phép của bạn để kích hoạt cập nhật từ xa và hỗ trợ chủ đề."
+
+#: ../includes/merlin/theme-register.php:46
+msgid ""
+"Envato allows 1 license for 1 project located on 1 domain. It means that 1 "
+"purchase key can be used only for 1 site. Each additional site will require "
+"an additional purchase key."
+msgstr ""
+"Envato cho phép cấp 1 giấy phép cho 1 dự án nằm trên 1 miền. Có nghĩa là 1 "
+"khóa mua hàng chỉ có thể được sử dụng cho 1 trang web. Mỗi trang web bổ sung "
+"sẽ yêu cầu một khóa mua hàng bổ sung."
+
+#: ../functions.php:210
+msgid "Envato Market"
+msgstr "Chợ Envato"
+
+#: ../includes/merlin/class-merlin.php:1907
+msgid "Error"
+msgstr "Lỗi"
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+"Lỗi: Tệp nhập tùy biến không có bất kỳ nội dung nào trong đó. Hãy đảm bảo sử "
+"dụng đúng tệp nhập tùy biến."
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "Lỗi: Tệp nhập tùy biến bị thiếu! Đường dẫn tập tin: %s"
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+"Lỗi: Tệp nhập tùy biến không có định dạng chính xác. Hãy đảm bảo sử dụng "
+"đúng tệp nhập tùy biến."
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+"Lỗi: Tệp nhập tùy biến không phù hợp với chủ đề hiện tại. Bạn chỉ có thể "
+"nhập cài đặt tùy biến cho cùng một chủ đề hoặc một chủ đề con."
+
+#: ../includes/merlin/merlin-config.php:97
+msgid "Explore WordPress"
+msgstr "Explore WordPress"
+
+#: ../includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: ../includes/merlin/merlin-config.php:95
+msgid "Extras"
+msgstr "Bổ sung"
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:962
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr "Nhập thuật ngữ không thành công: %s - %s"
+
+#: ../post-format/content-audio.php:19 ../post-format/content-gallery.php:29
+#: ../post-format/content-video.php:29 ../post-format/content.php:24
+#: ../post-format/single-audio.php:21 ../post-format/single-gallery.php:31
+#: ../post-format/single-video.php:31 ../post-format/single.php:24
+msgid "Featured"
+msgstr "Đặc sắc"
+
+#: ../woocommerce-page.php:41 ../woocommerce-page.php:70
+#: ../dc-product-vendor/wcmp-archive-page-vendor.php:54
+msgid "Filter Products"
+msgstr "Lọc Sản phẩm"
+
+#: ../functions.php:498
+msgid "Footer Fifth Column"
+msgstr "Cột thứ năm ở chân trang"
+
+#: ../functions.php:458
+msgid "Footer First Column"
+msgstr "Cột đầu tiên của chân trang"
+
+#: ../functions.php:488
+msgid "Footer Fourth Column"
+msgstr "Cột thứ tư ở chân trang"
+
+#: ../functions.php:247
+msgid "Footer Menu"
+msgstr "Menu chân trang"
+
+#: ../functions.php:468
+msgid "Footer Second Column"
+msgstr "Cột thứ hai của chân trang"
+
+#: ../functions.php:478
+msgid "Footer Third Column"
+msgstr "Cột thứ ba ở chân trang"
+
+#: ../includes/merlin/merlin-config.php:98
+msgid "Get Theme Support"
+msgstr "Nhận hỗ trợ chủ đề"
+
+#: ../404.php:27
+msgid "Go To Homepage"
+msgstr "Đi tới Trang chủ"
+
+#: ../includes/merlin/theme-register.php:51
+msgid "Help Center"
+msgstr "Trung tâm trợ giúp"
+
+#: ../includes/merlin/merlin-config.php:69
+msgid "Hi. Welcome back"
+msgstr "Chào. Chào mừng trở lại"
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#: ../includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: ../includes/merlin/theme-register.php:73
+msgid "How To Change Google Fonts"
+msgstr "Cách thay đổi Phông chữ của Google"
+
+#: ../includes/merlin/theme-register.php:35
+msgid ""
+"I confirm that, according to the Envato License Terms, I am licensed to use "
+"the purchase code for a single project. Using it on multiple installations "
+"is a copyright violation."
+msgstr ""
+"Tôi xác nhận rằng, theo Điều khoản cấp phép của Envato, tôi được cấp phép sử "
+"dụng mã mua hàng cho một dự án duy nhất. Sử dụng nó trên nhiều bản cài đặt "
+"là vi phạm bản quyền."
+
+#: ../includes/merlin/theme-register.php:54
+msgid ""
+"If you need support with using the theme,\n"
+"\t\t\tplease visit the links below. If you are having trouble with the "
+"installation, please read the documentation."
+msgstr ""
+"Nếu bạn cần hỗ trợ về việc sử dụng chủ đề,\n"
+"xin vui lòng truy cập các liên kết dưới đây. Nếu bạn gặp sự cố với việc cài "
+"đặt, vui lòng đọc tài liệu."
+
+#: ../includes/merlin/merlin-config.php:52
+msgid "Import"
+msgstr "Import"
+
+#: ../includes/merlin/merlin-config.php:87
+msgid "Import Content"
+msgstr "Import Content"
+
+#: ../includes/woocommerce.php:1297
+msgid "In Stock"
+msgstr "Trong kho"
+
+#: ../includes/class-tgm-plugin-activation.php:2802
+#: ../includes/merlin/merlin-config.php:49
+#: ../includes/merlin/merlin-config.php:50
+#: ../includes/merlin/merlin-config.php:51
+msgid "Install"
+msgstr "Cài đặt"
+
+#: ../includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: ../includes/merlin/merlin-config.php:73
+msgid "Install Child Theme"
+msgstr "Cài đặt Chủ đề con"
+
+#: ../includes/class-tgm-plugin-activation.php:335
+#: ../includes/merlin/merlin-config.php:81
+msgid "Install Plugins"
+msgstr "Cài đặt các plugin"
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Bắt buộc cài đặt Plugins"
+
+#: ../includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#: ../includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: ../includes/merlin/class-merlin.php:1786
+#: ../includes/merlin/class-merlin.php:1802
+#: ../includes/merlin/class-merlin.php:2028
+#: ../includes/merlin/class-merlin.php:2041
+#: ../includes/merlin/class-merlin.php:2054
+#: ../includes/merlin/class-merlin.php:2067
+#: ../includes/merlin/class-merlin.php:2080
+#: ../includes/merlin/class-merlin.php:2093
+#: ../includes/merlin/class-merlin.php:2106
+#: ../includes/merlin/class-merlin.php:2149
+msgid "Installing"
+msgstr "Đang cài đặt"
+
+#: ../includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích hoạt plugin %1$s (%2$d/%3$d)"
+
+#: ../includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: ../includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Cài đặt Plugin: %s"
+
+#: ../includes/merlin/class-merlin.php:1843
+msgid "Invalid content!"
+msgstr "Nội dung không hợp lệ!"
+
+#: ../includes/merlin/class-merlin.php:1926
+msgid "Invalid data!"
+msgstr "Dữ liệu không hợp lệ!"
+
+#: ../404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try to search for "
+"what you are looking for?"
+msgstr ""
+"Có vẻ như không có gì được tìm thấy tại vị trí này. Có thể cố gắng tìm kiếm "
+"những gì bạn đang tìm kiếm?"
+
+#: ../functions.php:167
+msgid "Kirki"
+msgstr "Kirki"
+
+#: ../includes/merlin/merlin-config.php:54
+msgid "Later"
+msgstr "Một lát sau"
+
+#: ../includes/merlin/merlin-config.php:77
+msgid "Learn about child themes"
+msgstr "Tìm hiểu về các chủ đề con"
+
+#: ../includes/merlin/merlin-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+"Hãy xây dựng và kích hoạt một chủ đề con để bạn có thể dễ dàng thực hiện các "
+"thay đổi chủ đề."
+
+#: ../includes/merlin/merlin-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+"Hãy nhập nội dung vào trang web của bạn, để giúp bạn làm quen với chủ đề."
+
+#: ../includes/merlin/merlin-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+"Hãy cài đặt một số plugin WordPress cần thiết để tăng tốc trang web của bạn"
+
+#: ../includes/merlin/class-merlin.php:727
+msgid "License"
+msgstr "Giấy phép"
+
+#: ../includes/merlin/theme-register.php:36
+msgid "License details."
+msgstr "Chi tiết giấy phép."
+
+#: ../includes/merlin/merlin-config.php:62
+msgid "License key"
+msgstr "Mã bản quyền"
+
+#: ../includes/metaboxes.php:52
+msgid "LIFE"
+msgstr "LIFE"
+
+#: ../includes/woocommerce.php:1170
+msgid "LIFE:"
+msgstr "LIFE:"
+
+#: ../comments.php:79
+msgid "logged in"
+msgstr "đăng nhập"
+
+#: ../functions.php:172
+msgid "MailChimp Subscribe"
+msgstr "Đăng ký MailChimp"
+
+#: ../includes/merlin/theme-register.php:67
+msgid "Managing Orders"
+msgstr "Quản lý đơn hàng"
+
+#: ../functions.php:147
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: ../includes/metaboxes.php:44
+msgid "MFG"
+msgstr "MFG"
+
+#: ../includes/woocommerce.php:1167
+msgid "MFG:"
+msgstr "MFG:"
+
+#: ../includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Phiên bản yêu cầu tối thiểu:"
+
+#: ../woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr "N/A"
+
+#: ../woocommerce/myaccount/navigation.php:30
+msgid "Navigation"
+msgstr "Điều hướng"
+
+#: ../includes/merlin/merlin-config.php:65
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: ../comments.php:38 ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Nhận xét mới hơn &rarr;"
+
+#: ../includes/merlin/merlin-config.php:46
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: ../includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động. Plugin %1$s đã hoạt động"
+
+#: ../includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có plugin nào có sẵn để được kích hoạt vào lúc này."
+
+#: ../includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào có sẵn để cài đặt tại thời điểm này."
+
+#: ../includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào có sẵn để được cập nhật vào lúc này."
+
+#: ../includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: ../includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động."
+
+#: ../includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#: ../includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động."
+
+#: ../archive.php:37 ../archive.php:57 ../archive.php:78 ../archive.php:105
+#: ../index.php:35 ../index.php:55 ../index.php:76 ../index.php:101
+#: ../search.php:37 ../search.php:57 ../search.php:78 ../search.php:105
+#: ../single.php:35 ../single.php:55 ../single.php:76 ../single.php:101
+msgid "No Posts Found"
+msgstr "Không tìm thấy bài viết"
+
+#: ../woocommerce/cart/mini-cart.php:117
+msgid "No products in the cart."
+msgstr "Không có sản phẩm nào trong giỏ."
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr "Không có kết quả cho việc nhập tiện ích con!"
+
+#: ../includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: ../comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ về &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: ../includes/merlin/theme-register.php:52
+msgid "Open a New Ticket"
+msgstr "Mở vé mới"
+
+#: ../includes/merlin/class-merlin.php:2091
+msgid "Option Tree framework options."
+msgstr "Tùy chọn Khung tùy chọn cây."
+
+#: ../includes/merlin/class-merlin.php:2090
+msgid "Option Tree Options"
+msgstr "Tùy chọn cây tùy chọn"
+
+#: ../includes/merlin/class-merlin.php:2064
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: ../includes/woocommerce.php:1301
+msgid "Out of stock"
+msgstr "Hết hàng"
+
+#: ../includes/metaboxes.php:146
+msgid "Own Embed Code"
+msgstr "Mã nhúng riêng"
+
+#: ../page.php:23 ../page.php:34 ../page.php:45 ../page.php:53 ../page.php:66
+#: ../page.php:81 ../page.php:94 ../post-format/content-audio.php:28
+#: ../post-format/content-gallery.php:38 ../post-format/content-video.php:38
+#: ../post-format/content.php:33 ../post-format/single-audio.php:30
+#: ../post-format/single-gallery.php:40 ../post-format/single-video.php:40
+#: ../post-format/single.php:33
+msgid "Pages:"
+msgstr "Trang:"
+
+#: ../footer.php:185
+msgid "payment"
+msgstr "thanh toán"
+
+#: ../includes/merlin/class-merlin.php:2027
+#: ../includes/merlin/class-merlin.php:2040
+#: ../includes/merlin/class-merlin.php:2053
+#: ../includes/merlin/class-merlin.php:2066
+#: ../includes/merlin/class-merlin.php:2079
+#: ../includes/merlin/class-merlin.php:2092
+#: ../includes/merlin/class-merlin.php:2105
+msgid "Pending"
+msgstr "Chưa giải quyết"
+
+#: ../functions.php:522
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../includes/merlin/class-merlin.php:1447
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+"Vui lòng thêm khóa cấp phép của bạn trước khi cố gắng kích hoạt một khóa."
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web này để được giúp đỡ."
+
+#: ../includes/class-tgm-plugin-activation.php:1019
+#: ../includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin của "
+"họ theo nguyên tắc WordPress."
+
+#: ../includes/merlin/class-merlin.php:1030
+#: ../includes/merlin/class-merlin.php:1162
+msgid "Please verify the purchase code first."
+msgstr "Vui lòng xác minh mã mua hàng trước."
+
+#: ../includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../includes/class-tgm-plugin-activation.php:394
+#: ../includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Phần hỗ trợ thêm đã được kích hoạt thành công"
+
+#: ../includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#: ../includes/merlin/theme-register.php:70
+msgid "Plugin Documentations"
+msgstr "Tài liệu plugin"
+
+#: ../includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin chưa được kích hoạt. Cần có phiên bản %s cao hơn cho thPlugin này "
+"chưa được kích hoạt.eme. Vui lòng cập nhật plugin."
+
+#: ../includes/merlin/class-merlin.php:735
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: ../woocommerce/cart/cart.php:33 ../woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr "Giá"
+
+#: ../functions.php:244
+msgid "Primary Navigation Menu"
+msgstr "Menu điều hướng chính"
+
+#: ../woocommerce/cart/cart.php:32 ../woocommerce/cart/cart.php:64
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: ../includes/metaboxes.php:27
+msgid "Product Data"
+msgstr "Dữ liệu sản phẩm"
+
+#: ../woocommerce/cart/cart.php:34 ../woocommerce/cart/cart.php:90
+#: ../woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: ../functions.php:420
+msgid "Read More"
+msgstr "Xem thêm"
+
+#: ../includes/merlin/class-merlin.php:749
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: ../includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Khuyến khích"
+
+#: ../includes/merlin/class-merlin.php:2078
+msgid "Redux framework options."
+msgstr "Tùy chọn khung Redux."
+
+#: ../includes/merlin/class-merlin.php:2077
+msgid "Redux Options"
+msgstr "Tùy chọn Redux"
+
+#: ../includes/merlin/theme-register.php:23
+#: ../includes/merlin/theme-register.php:40
+msgid "Register Theme"
+msgstr "Đăng ký chủ đề"
+
+#: ../woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "Những sảm phẩm tương tự"
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2344
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr "Remapping featured image ID %d to new ID %d for post ID %d"
+
+#: ../woocommerce/cart/cart.php:125 ../woocommerce/cart/mini-cart.php:65
+msgid "Remove this item"
+msgstr "Xóa mục này"
+
+#: ../includes/merlin/class-merlin.php:1114
+msgid "req"
+msgstr "req"
+
+#: ../includes/class-tgm-plugin-activation.php:2358
+#: ../includes/merlin/class-merlin.php:1113
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: ../includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Cập nhật bắt buộc không có sẵn"
+
+#: ../includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: ../includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Quay lại trình cài đặt plugin bắt buộc"
+
+#: ../woocommerce/cart/cart-empty.php:52
+msgid "Return to shop"
+msgstr "Quay lại cửa hàng"
+
+#: ../includes/class-tgm-plugin-activation.php:393
+#: ../includes/class-tgm-plugin-activation.php:912
+#: ../includes/class-tgm-plugin-activation.php:2618
+#: ../includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Quay lại trang tổng quan"
+
+#: ../includes/merlin/merlin-config.php:42
+msgid "Return to the dashboard"
+msgstr "Quay lại trang tổng quan"
+
+#: ../includes/merlin/class-merlin.php:2051
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: ../includes/merlin/class-merlin.php:2052
+msgid "Sample Revolution sliders data."
+msgstr "Sample Revolution sliders data."
+
+#: ../includes/merlin/class-merlin.php:2065
+msgid "Sample theme options data."
+msgstr "Dữ liệu tùy chọn chủ đề mẫu."
+
+#: ../includes/merlin/class-merlin.php:2039
+msgid "Sample widgets data."
+msgstr "Dữ liệu widgets mẫu."
+
+#: ../includes/woocommerce.php:995
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: ../includes/woocommerce.php:1006
+msgid "Search for Products, fruit, meat, eggs .etc..."
+msgstr "Tìm kiếm Sản phẩm, trái cây, thịt, trứng ..."
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Tìm kiếm kết quả cho: %s"
+
+#: ../searchform.php:12
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: ../includes/header/header-type1.php:93
+#: ../includes/header/models/canvas-menu.php:32
+msgid "Select a Location"
+msgstr "Chọn một vị trí"
+
+#: ../includes/merlin/class-merlin.php:1205
+msgid "Select Demo"
+msgstr "Chọn Demo"
+
+#: ../includes/woocommerce.php:909
+msgid "Select options"
+msgstr "Lựa chọn các phương án"
+
+#: ../includes/merlin/theme-register.php:63
+msgid "Sell Products"
+msgstr "Bán sản phẩm"
+
+#: ../includes/merlin/theme-register.php:62
+msgid "Set Up Products"
+msgstr "Thiết lập sản phẩm"
+
+#: ../woocommerce/loop/orderby.php:28
+msgid "Shop order"
+msgstr "Đặt hàng tại cửa hàng"
+
+#: ../functions.php:448
+msgid "Shop Sidebar"
+msgstr "Thanh bên Shop"
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#: ../includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#: ../functions.php:254
+msgid "Sidebar Menu"
+msgstr "Sidebar Menu"
+
+#: ../includes/header/models/canvas-menu.php:41
+msgid "Site Navigation"
+msgstr "Điều hướng của site"
+
+#: ../includes/merlin/merlin-config.php:45
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#: ../includes/woocommerce.php:1093
+#: ../woocommerce/content-single-product.php:49
+#: ../woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr "SKU:"
+
+#: ../includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Có gì đó không đúng với API mở rộng."
+
+#: ../includes/merlin/class-merlin.php:454
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr "Đã xảy ra lỗi. Hãy làm mới trang và thử lại!"
+
+#: ../woocommerce/loop/orderby.php:27
+msgid "Sort by"
+msgstr "Sắp xếp theo"
+
+#: ../includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Nguồn"
+
+#: ../includes/merlin/merlin-config.php:47
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: ../includes/merlin/merlin-config.php:99
+msgid "Start Customizing"
+msgstr "Bắt đầu tùy chỉnh"
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2335
+msgid "Starting remapping of featured images"
+msgstr "Bắt đầu ánh xạ lại các hình ảnh nổi bật"
+
+#: ../includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Trạng thái"
+
+#: ../woocommerce/content-single-product.php:56
+msgid "Store:"
+msgstr "Cửa hàng:"
+
+#: ../footer.php:34
+msgid "subscribe"
+msgstr "đặt mua"
+
+#: ../woocommerce/cart/cart.php:35 ../woocommerce/cart/cart.php:112
+msgid "Subtotal"
+msgstr "Tổng phụ"
+
+#: ../includes/merlin/class-merlin.php:1815
+#: ../includes/merlin/class-merlin.php:2029
+#: ../includes/merlin/class-merlin.php:2042
+#: ../includes/merlin/class-merlin.php:2055
+#: ../includes/merlin/class-merlin.php:2068
+#: ../includes/merlin/class-merlin.php:2081
+#: ../includes/merlin/class-merlin.php:2094
+#: ../includes/merlin/class-merlin.php:2107
+msgid "Success"
+msgstr "Thành công"
+
+#: ../woocommerce/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Thẻ:"
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: ../404.php:20
+msgid "That page can't be found"
+msgstr "Không thể tìm thấy trang đó"
+
+#: ../includes/woocommerce.php:669
+msgid "the available products :"
+msgstr "các sản phẩm có sẵn:"
+
+#: ../includes/class-tgm-plugin-activation.php:395
+#: ../includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin sau đã được kích hoạt thành công:"
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình này có thể mất một "
+"lúc trên một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: ../includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Việc cài đặt %1$s thất bại."
+
+#: ../includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt đang bắt đầu. Quá trình này có thể mất một lúc trên một số "
+"máy chủ, vì vậy hãy kiên nhẫn."
+
+#: ../includes/merlin/includes/class-merlin-option-tree-importer.php:31
+msgid "The Option Tree data was imported"
+msgstr "Dữ liệu Cây tùy chọn đã được nhập"
+
+#: ../includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Gói plugin từ xa bao gồm nhiều hơn một tệp, nhưng các tệp này không được "
+"đóng gói trong một thư mục."
+
+#: ../includes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Gói plugin từ xa không chứa thư mục với slug mong muốn và việc đổi tên không "
+"hoạt động."
+
+#: ../includes/merlin/merlin-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+"Tất cả các plugin WordPress bắt buộc đều đã được cài đặt và cập nhật. Nhấn "
+"\"Tiếp theo\" để tiếp tục trình hướng dẫn thiết lập."
+
+#: ../includes/merlin/merlin-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr "Chủ đề đã được đăng ký, vì vậy bạn có thể chuyển sang bước tiếp theo!"
+
+#: ../includes/merlin/theme-register.php:45
+msgid "The theme registered"
+msgstr "Chủ đề đã đăng ký"
+
+#: ../includes/merlin/theme-register.php:115
+msgid "The theme registered succesfully"
+msgstr "Chủ đề đã đăng ký thành công"
+
+#: ../includes/merlin/theme-register.php:58
+#: ../includes/merlin/theme-register.php:59
+msgid "Theme Documentation"
+msgstr "Tài liệu Chủ đề"
+
+#: ../includes/merlin/merlin-config.php:38
+msgid "Theme Setup"
+msgstr "Thiết lập chủ đề"
+
+#: ../includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Có một hoặc nhiều plugin bắt buộc hoặc được khuyến nghị để cài đặt, cập nhật "
+"hoặc kích hoạt."
+
+#: ../functions.php:440
+msgid "These are widgets for the Blog page."
+msgstr "Đây là các widget cho trang Blog."
+
+#: ../functions.php:460 ../functions.php:470 ../functions.php:480
+#: ../functions.php:490 ../functions.php:500
+msgid "These are widgets for the Footer."
+msgstr "Đây là các widget cho Footer."
+
+#: ../functions.php:450
+msgid "These are widgets for the Shop."
+msgstr "Đây là những vật dụng dành cho Shop."
+
+#: ../includes/merlin/class-merlin.php:1560
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Đây dường như là một khóa cấp phép không hợp lệ cho %s."
+
+#: ../includes/merlin/class-merlin.php:1550
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+"Đây dường như là một khóa cấp phép không hợp lệ. Vui lòng thử lại hoặc liên "
+"hệ với bộ phận hỗ trợ."
+
+#: ../includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với chủ đề của bạn."
+
+#: ../includes/merlin/merlin-config.php:70
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+"Trình hướng dẫn này sẽ thiết lập chủ đề của bạn, cài đặt plugin và nhập nội "
+"dung. Nó là tùy chọn và chỉ mất vài phút."
+
+#: ../includes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Để kích hoạt <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Để cài đặt <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: ../comments.php:79
+msgid "to post a comment."
+msgstr "để đăng một bình luận."
+
+#: ../functions.php:260
+msgid "Top Left Menu"
+msgstr "Menu trên cùng bên trái"
+
+#: ../functions.php:259
+msgid "Top Right Menu"
+msgstr "Menu trên cùng bên phải"
+
+#: ../includes/header/models/sidebar-menu.php:10
+#, php-format
+msgid "TOTAL %s PRODUCTS"
+msgstr "TỔNG CỘNG %s SẢN PHẨM"
+
+#: ../includes/merlin/theme-register.php:72
+msgid "Translate the Theme"
+msgstr "Dịch chủ đề"
+
+#: ../includes/class-tgm-plugin-activation.php:2634
+#: ../includes/metaboxes.php:36
+msgid "Type"
+msgstr "Kiểu"
+
+#: ../includes/metaboxes.php:64
+msgid "Type 1"
+msgstr "Kiểu 1"
+
+#: ../includes/metaboxes.php:65
+msgid "Type 2"
+msgstr "Kiểu 2"
+
+#: ../includes/woocommerce.php:1164
+msgid "Type:"
+msgstr "Kiểu:"
+
+#: ../includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Cập nhật"
+
+#: ../includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#: ../includes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: ../woocommerce/cart/cart.php:151
+msgid "Update cart"
+msgstr "Cập nhật giỏ hàng"
+
+#: ../includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Cập nhật khuyến cáo"
+
+#: ../includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: ../includes/merlin/class-merlin.php:1770
+msgid "Updating"
+msgstr "Đang cập nhật"
+
+#: ../includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật plugin %1$s (%2$d/%3$d)"
+
+#: ../includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật Plugin: %s"
+
+#: ../includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Thông báo nâng cấp từ tác giả plugin:"
+
+#: ../includes/metaboxes.php:96
+msgid ""
+"Upload unlimited images for a slideshow - or only one to display a single "
+"image."
+msgstr ""
+"Tải lên hình ảnh không giới hạn cho trình chiếu - hoặc chỉ một hình ảnh để "
+"hiển thị một hình ảnh duy nhất."
+
+#: ../functions.php:189
+msgid "Variation Swatches"
+msgstr "Các mẫu biến thể"
+
+#: ../includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Phiên bản"
+
+#: ../includes/metaboxes.php:140
+msgid "Video Type"
+msgstr "Loại video"
+
+#: ../includes/woocommerce.php:1232
+msgid "View cart"
+msgstr "Xem giỏ hàng"
+
+#: ../includes/merlin/merlin-config.php:96
+msgid "View your website"
+msgstr "Xem trang web của bạn"
+
+#: ../includes/metaboxes.php:145
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../includes/merlin/class-merlin.php:714
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#: ../includes/merlin/merlin-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr "Chào mừng %s"
+
+#: ../includes/merlin/theme-register.php:30
+msgid "Where to find the code?"
+msgstr "Tìm mã ở đâu?"
+
+#: ../includes/merlin/class-merlin.php:2038
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../functions.php:183
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../functions.php:162
+msgid "WooCommerce Compare"
+msgstr "So sánh WooCommerce"
+
+#: ../includes/merlin/theme-register.php:61
+msgid "WooCommerce Documentations"
+msgstr "Tài liệu WooCommerce"
+
+#: ../functions.php:157
+msgid "WooCommerce Wishlist"
+msgstr "Danh sách mong muốn của WooCommerce"
+
+#: ../includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Kho lưu trữ WordPress"
+
+#: ../functions.php:194
+msgid "WP Ajax Search"
+msgstr "Tìm kiếm WP Ajax"
+
+#: ../includes/merlin/class-merlin.php:1438
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+"Rất tiếc! Kích hoạt chủ đề không thành công. Vui lòng thử lại hoặc liên hệ "
+"với bộ phận hỗ trợ."
+
+#: ../woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr "Bạn cũng có thể thích &hellip;"
+
+#: ../woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr "Bạn có thể quan tâm đến &hellip;"
+
+#: ../includes/merlin/merlin-config.php:71
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+"Bạn có thể đã chạy trình hướng dẫn thiết lập chủ đề này. Nếu bạn vẫn muốn "
+"tiếp tục, hãy nhấp vào nút \"Bắt đầu\" bên dưới."
+
+#: ../comments.php:79
+msgid "You must be"
+msgstr "Bạn phải"
+
+#: ../woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Bạn phải đăng nhập để thanh toán."
+
+#: ../includes/merlin/theme-register.php:24
+msgid ""
+"You're almost done. Just one more step. In order to gain full access to all "
+"demos, \n"
+"\t\tpremium plugins and support, please register your theme's purchase code."
+msgstr ""
+"Bạn sắp hoàn thành nó rồi. Chỉ một bước nữa. Để có được quyền truy cập đầy "
+"đủ vào tất cả các bản trình diễn,\n"
+"bổ sung và hỗ trợ cao cấp, vui lòng đăng ký mã mua chủ đề của bạn."
+
+#: ../includes/merlin/merlin-config.php:74
+msgid "You're good to go!"
+msgstr "Bạn tốt để đi!"
+
+#: ../includes/merlin/merlin-config.php:82
+msgid "You're up to speed!"
+msgstr "Bạn đang tăng tốc!"
+
+#: ../includes/merlin/merlin-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+"Chủ đề con của bạn đã được cài đặt và hiện đã được kích hoạt, nếu nó chưa "
+"được kích hoạt."
+
+#: ../functions.php:545
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#: ../includes/merlin/theme-register.php:26
+msgid "Your Envato Purchase Code"
+msgstr "Mã mua hàng Envato của bạn"
+
+#: ../includes/merlin/class-merlin.php:1555
+msgid "Your license is not active for this URL."
+msgstr "Giấy phép của bạn không hoạt động cho URL này."
+
+#: ../includes/merlin/class-merlin.php:1540
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Khóa cấp phép của bạn đã hết hạn vào %s."
+
+#: ../includes/merlin/class-merlin.php:1546
+msgid "Your license key has been disabled."
+msgstr "Khóa cấp phép của bạn đã bị vô hiệu hóa."
+
+#: ../includes/merlin/class-merlin.php:1564
+msgid "Your license key has reached its activation limit."
+msgstr "Khóa cấp phép của bạn đã đạt đến giới hạn kích hoạt."
+
+#: ../includes/header/header-type1.php:91
+#: ../includes/header/models/canvas-menu.php:30
+msgid "Your Location"
+msgstr "Vị trí của bạn"
+
+#: ../woocommerce/checkout/form-checkout.php:61
+msgid "Your order"
+msgstr "Đơn đặt hàng của bạn"
+
+#: ../includes/merlin/merlin-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+"Chủ đề của bạn đã được thiết lập xong. Thưởng thức chủ đề mới của bạn bằng "
+"cách %s."
+
+#: ../includes/merlin/merlin-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+"Chủ đề của bạn đã được kích hoạt! Cập nhật từ xa và hỗ trợ chủ đề được bật."
+
+#: ../includes/metaboxes.php:144
+msgid "Youtube"
+msgstr "Youtube"

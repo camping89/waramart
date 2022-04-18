@@ -1,0 +1,90 @@
+2022-03-30T03:19:00+00:00 CRITICAL Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /var/www/html/waramart/wp-includes/class-wp-query.php:782
+Stack trace:
+#0 /var/www/html/waramart/wp-includes/class-wp-query.php(782): trim()
+#1 /var/www/html/waramart/wp-includes/class-wp-query.php(1771): WP_Query->parse_query()
+#2 /var/www/html/waramart/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#3 /var/www/html/waramart/wp-includes/class-wp.php(629): WP_Query->query()
+#4 /var/www/html/waramart/wp-includes/class-wp.php(752): WP->query_posts()
+#5 /var/www/html/waramart/wp-includes/functions.php(1291): WP->main()
+#6 /var/www/html/waramart/wp-blog-header.php(16): wp()
+#7 /var/www/html/waramart/index.php(18): require('...')
+#8 {main}
+  thrown in /var/www/html/waramart/wp-includes/class-wp-query.php on line 782
+
+2022-03-30T03:19:05+00:00 CRITICAL Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /var/www/html/waramart/wp-includes/class-wp-query.php:782
+Stack trace:
+#0 /var/www/html/waramart/wp-includes/class-wp-query.php(782): trim()
+#1 /var/www/html/waramart/wp-includes/class-wp-query.php(1771): WP_Query->parse_query()
+#2 /var/www/html/waramart/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#3 /var/www/html/waramart/wp-includes/class-wp.php(629): WP_Query->query()
+#4 /var/www/html/waramart/wp-includes/class-wp.php(752): WP->query_posts()
+#5 /var/www/html/waramart/wp-includes/functions.php(1291): WP->main()
+#6 /var/www/html/waramart/wp-blog-header.php(16): wp()
+#7 /var/www/html/waramart/index.php(18): require('...')
+#8 {main}
+  thrown in /var/www/html/waramart/wp-includes/class-wp-query.php on line 782
+
+2022-03-30T03:19:08+00:00 CRITICAL Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /var/www/html/waramart/wp-includes/class-wp-query.php:782
+Stack trace:
+#0 /var/www/html/waramart/wp-includes/class-wp-query.php(782): trim()
+#1 /var/www/html/waramart/wp-includes/class-wp-query.php(1771): WP_Query->parse_query()
+#2 /var/www/html/waramart/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#3 /var/www/html/waramart/wp-includes/class-wp.php(629): WP_Query->query()
+#4 /var/www/html/waramart/wp-includes/class-wp.php(752): WP->query_posts()
+#5 /var/www/html/waramart/wp-includes/functions.php(1291): WP->main()
+#6 /var/www/html/waramart/wp-blog-header.php(16): wp()
+#7 /var/www/html/waramart/index.php(18): require('...')
+#8 {main}
+  thrown in /var/www/html/waramart/wp-includes/class-wp-query.php on line 782
+
+2022-03-30T03:19:09+00:00 CRITICAL Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /var/www/html/waramart/wp-includes/class-wp-query.php:782
+Stack trace:
+#0 /var/www/html/waramart/wp-includes/class-wp-query.php(782): trim()
+#1 /var/www/html/waramart/wp-includes/class-wp-query.php(1771): WP_Query->parse_query()
+#2 /var/www/html/waramart/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#3 /var/www/html/waramart/wp-includes/class-wp.php(629): WP_Query->query()
+#4 /var/www/html/waramart/wp-includes/class-wp.php(752): WP->query_posts()
+#5 /var/www/html/waramart/wp-includes/functions.php(1291): WP->main()
+#6 /var/www/html/waramart/wp-blog-header.php(16): wp()
+#7 /var/www/html/waramart/index.php(18): require('...')
+#8 {main}
+  thrown in /var/www/html/waramart/wp-includes/class-wp-query.php on line 782
+
+2022-03-30T11:15:13+00:00 CRITICAL Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in /var/www/html/waramart/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php:90
+Stack trace:
+#0 /var/www/html/waramart/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php(90): constant()
+#1 /var/www/html/waramart/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php(58): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->make_request()
+#2 /var/www/html/waramart/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php(109): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->run()
+#3 /var/www/html/waramart/wp-includes/class-wp-hook.php(303): Automattic\WooCommerce\Admin\Events->do_wc_admin_daily()
+#4 /var/www/html/waramart/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#5 /var/www/html/waramart/wp-includes/plugin.php(518): WP_Hook->do_action()
+#6 /var/www/html/waramart/wp-cron.php(138): do_action_ref_array()
+#7 {main}
+  thrown in /var/www/html/waramart/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php on line 90
+
+2022-03-30T19:16:37+00:00 CRITICAL Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /var/www/html/waramart/wp-includes/class-wp-query.php:782
+Stack trace:
+#0 /var/www/html/waramart/wp-includes/class-wp-query.php(782): trim()
+#1 /var/www/html/waramart/wp-includes/class-wp-query.php(1771): WP_Query->parse_query()
+#2 /var/www/html/waramart/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#3 /var/www/html/waramart/wp-includes/class-wp.php(629): WP_Query->query()
+#4 /var/www/html/waramart/wp-includes/class-wp.php(752): WP->query_posts()
+#5 /var/www/html/waramart/wp-includes/functions.php(1291): WP->main()
+#6 /var/www/html/waramart/wp-blog-header.php(16): wp()
+#7 /var/www/html/waramart/index.php(18): require('...')
+#8 {main}
+  thrown in /var/www/html/waramart/wp-includes/class-wp-query.php on line 782
+
+2022-03-30T19:16:41+00:00 CRITICAL Uncaught TypeError: trim(): Argument #1 ($string) must be of type string, array given in /var/www/html/waramart/wp-includes/class-wp-query.php:782
+Stack trace:
+#0 /var/www/html/waramart/wp-includes/class-wp-query.php(782): trim()
+#1 /var/www/html/waramart/wp-includes/class-wp-query.php(1771): WP_Query->parse_query()
+#2 /var/www/html/waramart/wp-includes/class-wp-query.php(3465): WP_Query->get_posts()
+#3 /var/www/html/waramart/wp-includes/class-wp.php(629): WP_Query->query()
+#4 /var/www/html/waramart/wp-includes/class-wp.php(752): WP->query_posts()
+#5 /var/www/html/waramart/wp-includes/functions.php(1291): WP->main()
+#6 /var/www/html/waramart/wp-blog-header.php(16): wp()
+#7 /var/www/html/waramart/index.php(18): require('...')
+#8 {main}
+  thrown in /var/www/html/waramart/wp-includes/class-wp-query.php on line 782
+

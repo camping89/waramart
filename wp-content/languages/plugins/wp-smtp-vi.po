@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP SMTP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-29 15:42+0000\n"
+"PO-Revision-Date: 2021-11-29 15:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wp-smtp"
+
+#: wp_smtp_admin.php:51
+msgid "Some of the test fields are empty or an invalid email supplied"
+msgstr ""
+
+#: wp_smtp_admin.php:56
+msgid "Message sent!"
+msgstr ""
+
+#: wp_smtp_admin.php:79
+msgid "From"
+msgstr ""
+
+#: wp_smtp_admin.php:90
+msgid "From Name"
+msgstr ""
+
+#: wp_smtp_admin.php:101
+msgid "SMTP Host"
+msgstr ""
+
+#: wp_smtp_admin.php:112
+msgid "SMTP Secure"
+msgstr ""
+
+#: wp_smtp_admin.php:136
+msgid "SMTP Port"
+msgstr ""
+
+#: wp_smtp_admin.php:147
+msgid "SMTP Authentication"
+msgstr ""
+
+#: wp_smtp_admin.php:165
+msgid "Username"
+msgstr ""
+
+#: wp_smtp_admin.php:176
+msgid "Password"
+msgstr ""
+
+#: wp_smtp_admin.php:187
+msgid "Delete Options"
+msgstr ""
+
+#: wp_smtp_admin.php:193
+msgid "Delete options while deactivate this plugin."
+msgstr ""
+
+#: wp_smtp_admin.php:208
+msgid "Test your settings"
+msgstr ""
+
+#: wp_smtp_admin.php:212
+msgid "To:"
+msgstr ""
+
+#: wp_smtp_admin.php:222
+msgid "Subject:"
+msgstr ""
+
+#: wp_smtp_admin.php:232
+msgid "Message:"
+msgstr ""
+
+#: wp_smtp_admin.php:245
+msgid "Send Test"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP SMTP"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP SMTP can help us to send emails via SMTP instead of the PHP mail() "
+"function and email logger built-in."
+msgstr ""
+
+#. Author of the plugin
+msgid "Yehuda Hassine"
+msgstr ""
